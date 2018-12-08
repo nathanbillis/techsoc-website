@@ -1,0 +1,16 @@
+# Site settings
+title: York Technical Theatre Society
+email: techsoc@yusu.org
+description: >
+  York Technical Theatre Society
+baseurl: "/website-2.0" # the subpath of your site, e.g. /blog
+url: "https://yorktechsoc.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-coffeescript
+
+sass:
+  sass_dir: _sass
