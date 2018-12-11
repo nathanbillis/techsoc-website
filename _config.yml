@@ -9,8 +9,10 @@ url: "https://yorktechsoc.github.io" # the base hostname & protocol for your sit
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-coffeescript
+  - jekyll-menus
 
 sass:
   sass_dir: _sass
+
